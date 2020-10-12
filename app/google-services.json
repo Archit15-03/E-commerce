@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "599153748798",
+    "firebase_url": "https://hmdemo-e04d0.firebaseio.com",
+    "project_id": "hmdemo-e04d0",
+    "storage_bucket": "hmdemo-e04d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599153748798:android:a9f01ce699bab848fada6f",
+        "android_client_info": {
+          "package_name": "com.example.hmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599153748798-ledbr6s9l8peeh13en914rqjsl595smk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnz9Cltr5vBpj76cyYZ4-CLb2qOrzVJrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599153748798-ledbr6s9l8peeh13en914rqjsl595smk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
